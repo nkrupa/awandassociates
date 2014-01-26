@@ -1,0 +1,16 @@
+html, body{
+	margin: 0; 
+	padding: 0;
+}
+ 
+
+#container {
+    padding: 100px 0;
+    width: 910px;
+	margin: 0 auto; 
+}
+
+
+#navrow div{
+    float: left;
+}

@@ -1,0 +1,15 @@
+#container {
+    background: url('sellers_bg.jpg'); 
+    height: 1000px;
+    width: 910px;
+    background-repeat: no-repeat;
+}
+
+#footer {
+    margin-top: 95px;
+}
+
+#maintext {
+    padding: 125px 45px 0 0; 
+}
+

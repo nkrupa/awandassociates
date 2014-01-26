@@ -1,0 +1,19 @@
+#container {
+    background: url('travellers_bg.jpg'); 
+    height: 800px;
+    width: 910px;
+    background-repeat: no-repeat;
+}
+
+#footer {
+    margin-top: 160px;
+}
+
+#maintext {
+    padding: 150px 45px 0 0; 
+}
+
+h2 {
+    margin: 15px 0;
+}
+

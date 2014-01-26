@@ -1,0 +1,15 @@
+#container {
+    background: url('us_bg.jpg'); 
+    height: 700px;
+    width: 910px;
+    background-repeat: no-repeat;
+}
+
+#footer {
+    margin-top: 340px;
+}
+
+#maintext {
+    padding: 150px 45px 0 0; 
+}
+

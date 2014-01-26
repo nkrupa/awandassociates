@@ -1,0 +1,65 @@
+html, body{
+	margin: 0; 
+	padding: 0;
+}
+ 
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: .89em; /* IE seems to only interpret the .8 part, so it jumps a LOT when going to .9 */
+}
+
+h2 {
+    margin-top: 25px;
+}
+
+#nav div {
+    float:left;
+}
+
+#spaceholder {
+    float:left;
+}
+
+#endspaceholder {
+    clear:both;
+}
+
+#container {
+    padding: 0;
+	margin: 0 auto; 
+}
+
+p {
+    margin: 15px 0 0 0;
+}
+
+#maintext {
+    text-align: left;
+    margin: 0 0 0 312px;
+    font-size: 80%;
+    line-height: 130%; 
+}
+
+.inset {
+    padding-left: 30px;
+}
+
+li {
+    margin-top: .5em;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#footer, #footer a {
+    font-size: .9em;
+    font-weight: bold;
+    color: #888888;
+    text-align: center;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration:underline;
+}

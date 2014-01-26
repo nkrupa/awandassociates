@@ -1,0 +1,22 @@
+#container {
+    background: url('journalists_bg.jpg'); 
+    height: 1000px;
+    width: 910px;
+    background-repeat: no-repeat;
+}
+
+#footer {
+    margin-top: 25px;
+}
+
+#maintext {
+    padding: 150px 45px 0 0; 
+}
+
+h2 {
+    margin: 15px 0;
+}
+
+ul {
+    margin-bottom: 0;
+}
